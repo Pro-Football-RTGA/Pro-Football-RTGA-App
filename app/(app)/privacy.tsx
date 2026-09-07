@@ -131,10 +131,10 @@ export default function Privacy() {
       <Text style={[styles.bullet, { color: c.subtext }]}>
         • Groq (AI-powered analysis features) — https://groq.com/privacy-policy/
       </Text>
-      <Text style={[styles.bullet, { color: c.subtext }]}>
+      {/* <Text style={[styles.bullet, { color: c.subtext }]}>
         • Stripe (payment processing, if applicable) —
         https://stripe.com/privacy
-      </Text>
+      </Text> */}
       <Text style={[styles.body, { color: c.subtext, marginTop: 8 }]}>
         The Application also relies on the following backend infrastructure
         providers to store data and operate its services. These providers do not

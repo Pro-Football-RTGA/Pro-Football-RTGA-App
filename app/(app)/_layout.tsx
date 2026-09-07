@@ -297,7 +297,7 @@ export default function RootLayout() {
                 { backgroundColor: isDark ? "#edf5ff" : "#02080f" },
               ]}
             />
-            <TouchableOpacity
+            {/* <TouchableOpacity
               style={styles.supportRow}
               onPress={() => {
                 setShowDrawer(false);
@@ -311,7 +311,7 @@ export default function RootLayout() {
                 <Text style={styles.donateLink}>Donate</Text>
               </View>
               <Ionicons name="chevron-forward" size={16} color="#f43f5e" />
-            </TouchableOpacity>
+            </TouchableOpacity> */}
 
             <Text
               style={[
