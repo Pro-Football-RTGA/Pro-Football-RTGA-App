@@ -119,7 +119,7 @@ Built-in support access lets you send a message directly from the app if you hit
 
 <!-- ## Donations
 
-This app runs on real free-tier infrastructure such as servers, databases, and ML compute for retraining, running, and render. Especially when app usage increases, it's imperative to upgrade which will cost a significant amount for many of these third-party services. Donations are entirely optional with no paywalled features anywhere else in the app. If you'd like to support it: **Settings --> Donate**. -->
+This app runs on real free-tier infrastructure such as servers, databases, and ML compute for retraining, running, and render. Especially when app usage increases, it's imperative to upgrade which will cost a significant amount for many of these third-party services. Donations are entirely optional with no paywalled features anywhere else in the app. If you'd like to support it: **Settings -> Donate**. -->
 
 # Terms & Conditions
 Please read the full Terms & Conditions of the app and service here: [Pro Football RTGA: Terms & Conditions](https://intelligent-lupin-a6c.notion.site/Pro-Football-RTGA-Terms-Conditions-3ca15e0a717080398ad4f586fc8a9669)
