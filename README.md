@@ -132,6 +132,6 @@ Please read the full Privacy Policy of the app and service here: [Pro Football R
 © <!-- YEAR -->2026<!-- YEAR --> Pro Football RTGA. All rights reserved.
 
 
-Last Updated: 2026-08-30
+Last Updated: 2026-09-07
 
 *Apple, the Apple logo, and App Store are trademarks of Apple Inc., registered in the U.S. and other countries.*
