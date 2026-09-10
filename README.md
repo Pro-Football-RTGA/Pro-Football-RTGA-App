@@ -8,15 +8,9 @@
 
 Build a completely random NFL team from real players, then simulate, analyze, and optimize it with real historical data and machine learning.
 
-<!--
-  Enable when the app is actually live.
-  Apple's own guidelines prohibit using the "Download on the App Store" badge
-  to promote an app that isn't yet published. Once live, delete the "Coming
-  Soon" line below and uncomment the real badge with your App Store URL.
+Available on iOS. Android coming soon!
 
-  [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/idXXXXXXXXXX)
--->
-[![App Store: Coming Soon](https://img.shields.io/badge/App%20Store-Coming%20Soon-black?style=for-the-badge&logo=apple&logoColor=white)](https://pf-rtga-marketing-site.vercel.app/)
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/pro-football-rtga/id6802499607)
 
 [Marketing Site](https://pf-rtga-marketing-site.vercel.app/) • [Notion Page - Full App Writeup](https://intelligent-lupin-a6c.notion.site/Pro-Football-RTGA-Page-3c115e0a717080ceb491ec11f6df6846) • [Report a Bug](#support)
 
